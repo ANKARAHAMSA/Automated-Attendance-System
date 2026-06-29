@@ -24,3 +24,6 @@ venv/
 
 # Logs
 *.log
+
+# YOLO MODELS
+*.pt
