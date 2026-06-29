@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Database
+*.db
+
+# Generated folders
+captured_images/
+reports/
+
+# macOS
+.DS_Store
+
+# Virtual Environment
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
